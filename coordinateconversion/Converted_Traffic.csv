@@ -1,0 +1,473 @@
+Date,Time,Day,Injury,NumberInjured,NumberKilled,Cause,CollisionType,Latitude,Longitude
+1/2/2015,4:04:00 PM,Friday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.18075904325513,-118.15077220190166
+1/3/2015,4:14:00 PM,Saturday,Complaint of Pain,5,0,Other,Head-On,34.14142447067547,-118.1130900204538
+1/3/2015,11:55:00 PM,Saturday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.12403808247507,-118.15027043053362
+1/6/2015,3:33:00 PM,Tuesday,Complaint of Pain,4,0,Unsafe Speed,Rear-End,34.161474455883116,-118.1506418717514
+1/10/2015,1:31:00 PM,Saturday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.14461042680463,-118.12452889965236
+1/14/2015,1:35:00 PM,Wednesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.14189935203571,-118.12098145368174
+1/17/2015,4:11:00 PM,Saturday,Other Visible Injury,2,0,Driving Under Influence,Vehicle - Pedestrian,34.145955483889324,-118.12299738796384
+1/18/2015,9:53:00 AM,Sunday,Other Visible Injury,2,0,Wrong Side of Road,Not Stated,34.14600135256067,-118.1157264712431
+1/19/2015,2:02:00 PM,Monday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.151672382927956,-118.09423719596388
+1/19/2015,8:28:00 PM,Monday,Other Visible Injury,3,0,,Head-On,34.15236044380319,-118.09494727713206
+1/23/2015,10:43:00 AM,Friday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.1813497894713,-118.14172069610787
+1/23/2015,3:40:00 PM,Friday,Other Visible Injury,2,0,Auto R/W Violation,Head-On,34.14197434883583,-118.10831145888218
+1/25/2015,1:32:00 PM,Sunday,Other Visible Injury,4,0,Auto R/W Violation,Head-On,34.13574836972692,-118.09437125311115
+1/25/2015,3:22:00 PM,Sunday,Complaint of Pain,2,0,Pedestrian Violation,Head-On,34.14062404576299,-118.15042252844957
+1/30/2015,8:15:00 AM,Friday,Complaint of Pain,4,0,Auto R/W Violation,Broadside,34.14462035454235,-118.12288305512675
+2/1/2015,7:01:00 PM,Sunday,Other Visible Injury,4,0,Driving Under Influence,Rear-End,34.161620920230455,-118.08115489659019
+2/5/2015,3:47:00 PM,Thursday,Complaint of Pain,3,0,Auto R/W Violation,Head-On,34.145901856755344,-118.13235373355555
+2/6/2015,8:00:00 AM,Friday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.15250367727371,-118.1487681570282
+2/10/2015,7:01:00 PM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.146101671636465,-118.09865630401009
+2/11/2015,2:55:00 PM,Wednesday,Complaint of Pain,3,0,Auto R/W Violation,Broadside,34.168830353500795,-118.15344861905803
+2/12/2015,12:28:00 PM,Thursday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.1813497894713,-118.14172069610787
+2/17/2015,6:44:00 AM,Tuesday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.15126090814626,-118.14144160992643
+2/18/2015,9:55:00 AM,Wednesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.14459793558824,-118.12597644369411
+2/19/2015,1:30:00 PM,Thursday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.14450220134594,-118.14745506726238
+2/21/2015,11:17:00 AM,Saturday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.17146079682729,-118.17674092851486
+2/21/2015,12:26:00 PM,Saturday,Property Damage Only,2,0,Auto R/W Violation,Head-On,34.162138540706295,-118.1600343722818
+2/21/2015,12:26:00 PM,Saturday,Other Visible Injury,2,0,Auto R/W Violation,Head-On,34.162138540706295,-118.1600343722818
+2/21/2015,1:46:00 PM,Saturday,Other Visible Injury,3,0,Pedestrian Violation,Broadside,34.146795702756506,-118.14599168264681
+2/24/2015,5:51:00 PM,Tuesday,Complaint of Pain,4,0,Unsafe Speed,Rear-End,34.15919357391268,-118.11314991309979
+2/26/2015,9:11:00 AM,Thursday,Complaint of Pain,3,0,Unknown,Broadside,34.16884164090385,-118.1506716850693
+2/26/2015,5:07:00 PM,Thursday,Complaint of Pain,4,0,Auto R/W Violation,Head-On,34.12575296421699,-118.15446323094902
+3/5/2015,1:46:00 PM,Thursday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.16698879722247,-118.14908154808009
+3/6/2015,2:29:00 PM,Friday,Other Visible Injury,5,0,Unsafe Lane Change,Rear-End,34.14467902978814,-118.15747927305691
+3/11/2015,10:40:00 AM,Wednesday,Other Visible Injury,2,0,Driving Under Influence,Rear-End,34.16647831643725,-118.12151485291885
+3/11/2015,11:51:00 AM,Wednesday,Other Visible Injury,5,0,Traffic Signals and Signs,Broadside,34.169061290137535,-118.1215338280921
+3/12/2015,8:44:00 AM,Thursday,Other Visible Injury,2,0,Improper Turning,Broadside,34.154281200087595,-118.13259507234183
+3/13/2015,6:30:00 PM,Friday,Complaint of Pain,2,0,Unknown,Broadside,34.12575296421699,-118.15446323094902
+3/21/2015,8:13:00 AM,Saturday,Other Visible Injury,5,0,Traffic Signals and Signs,Broadside,34.14602422727733,-118.1118596604974
+3/23/2015,7:47:00 AM,Monday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.16900069428302,-118.12961006065655
+3/24/2015,2:56:00 PM,Tuesday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.13834059393707,-118.1503985906906
+3/24/2015,3:14:00 PM,Tuesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.15830835035426,-118.13246405388445
+3/24/2015,5:03:00 PM,Tuesday,Complaint of Pain,3,0,Unsafe Speed,Rear-End,34.13587524184405,-118.11653199500155
+3/25/2015,6:20:00 PM,Wednesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.13586631763177,-118.13512030926373
+3/26/2015,9:05:00 AM,Thursday,Complaint of Pain,2,0,Improper Turning,Broadside,34.16908126854339,-118.11926931164723
+3/26/2015,9:05:00 AM,Thursday,Complaint of Pain,2,0,Improper Turning,Broadside,34.16908469369793,-118.11889243690135
+3/28/2015,9:00:00 PM,Saturday,Complaint of Pain,3,0,Traffic Signals and Signs,Head-On,34.15533081089595,-118.10627283621642
+3/30/2015,10:09:00 AM,Monday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.1405792954711,-118.14883615362719
+3/30/2015,3:57:00 PM,Monday,Complaint of Pain,3,0,Unsafe Speed,Rear-End,34.16050448320445,-118.1214659158385
+3/30/2015,9:41:00 PM,Monday,Other Visible Injury,2,0,Improper Turning,Broadside,34.16894136021196,-118.13775569403587
+3/31/2015,6:05:00 PM,Tuesday,Complaint of Pain,4,0,Improper Turning,Sideswipe,34.15967129245332,-118.14901560402095
+4/2/2015,7:08:00 PM,Thursday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.15789656159155,-118.11316798959047
+4/6/2015,8:36:00 AM,Monday,Complaint of Pain,3,0,Traffic Signals and Signs,Broadside,34.14292508344044,-118.12801963760032
+4/6/2015,8:36:00 AM,Monday,Complaint of Pain,3,0,Pedestrian Violation,Broadside,34.14292508344044,-118.12801963760032
+4/6/2015,1:54:00 PM,Monday,Complaint of Pain,2,0,Driving Under Influence,Sideswipe,34.152867950609846,-118.1209087249889
+4/7/2015,8:24:00 AM,Tuesday,Other Visible Injury,2,0,Other Than Driver,Not Stated,34.1275299549898,-118.15080195207692
+4/7/2015,3:16:00 PM,Tuesday,Other Visible Injury,3,0,Auto R/W Violation,Broadside,34.162224490843016,-118.11310901851328
+4/8/2015,9:38:00 AM,Wednesday,Other Visible Injury,2,2,Pedestrian Violation,Broadside,34.14994687164007,-118.09044094034635
+4/9/2015,10:58:00 AM,Thursday,Other Visible Injury,2,0,Improper Turning,Broadside,34.17146006503543,-118.13212643628131
+4/9/2015,2:33:00 PM,Thursday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.16914098106252,-118.11303114840392
+4/14/2015,9:44:00 AM,Tuesday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.144553384993955,-118.14141373337007
+4/15/2015,7:02:00 PM,Wednesday,Other Visible Injury,2,0,Other Than Driver,Sideswipe,34.166895540857205,-118.13674737549078
+4/16/2015,7:26:00 AM,Thursday,Other Visible Injury,3,0,Auto R/W Violation,Broadside,34.15874371466143,-118.08142976382652
+4/17/2015,11:07:00 AM,Friday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.14039013159002,-118.13683618981251
+4/18/2015,1:07:00 PM,Saturday,Other Visible Injury,3,0,Auto R/W Violation,Broadside,34.14620957856195,-118.08695342587986
+4/19/2015,4:21:00 PM,Sunday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.14813370149338,-118.12668906017252
+4/19/2015,7:52:00 PM,Sunday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.15775880951735,-118.13245845592539
+4/20/2015,9:25:00 AM,Monday,Complaint of Pain,2,0,Improper Turning,Broadside,34.16041639381551,-118.11313173559675
+4/21/2015,9:44:00 AM,Tuesday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.17455986228531,-118.14166289223832
+4/21/2015,10:41:00 AM,Tuesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.135833678364946,-118.13966076527788
+4/22/2015,9:24:00 AM,Wednesday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.16157831642427,-118.13249095565328
+4/23/2015,6:30:00 AM,Thursday,Complaint of Pain,2,0,,Broadside,34.151780068192274,-118.12138970753263
+4/23/2015,3:51:00 PM,Thursday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.14560741788637,-118.13521336203641
+4/23/2015,7:20:00 PM,Thursday,Complaint of Pain,2,0,Traffic Signals and Signs,Not Stated,34.146795702756506,-118.14599168264681
+4/26/2015,10:42:00 AM,Sunday,Complaint of Pain,3,0,Auto R/W Violation,Broadside,34.15435716363977,-118.09409478945814
+4/27/2015,7:15:00 AM,Monday,Complaint of Pain,2,0,Driving Under Influence,Rear-End,34.17591142807015,-118.13723208286704
+4/30/2015,5:40:00 PM,Thursday,Other Visible Injury,3,0,Auto R/W Violation,Head-On,34.14952133769448,-118.12136990091774
+5/2/2015,2:22:00 PM,Saturday,Complaint of Pain,3,0,Auto R/W Violation,Broadside,34.15248005755895,-118.07632696828317
+5/4/2015,8:35:00 PM,Monday,Complaint of Pain,2,0,,Broadside,34.17896153653747,-118.15964669962652
+5/4/2015,8:35:00 PM,Monday,Complaint of Pain,2,0,Other,Broadside,34.17896153653747,-118.15964669962652
+5/5/2015,5:59:00 PM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.17896153653747,-118.15964669962652
+5/7/2015,10:11:00 AM,Thursday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.14575556152784,-118.15595108895644
+5/9/2015,12:10:00 PM,Saturday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.144549920740786,-118.13233837279286
+5/10/2015,11:50:00 AM,Sunday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.14953258575529,-118.14598985359615
+5/11/2015,2:04:00 PM,Monday,Other Visible Injury,2,0,Pedestrian Violation,Vehicle - Pedestrian,34.153307693289676,-118.13695005516996
+5/11/2015,2:09:00 PM,Monday,Other Visible Injury,3,0,Other Hazardous Movement,Broadside,34.14792865734725,-118.13086635709784
+5/14/2015,2:02:00 PM,Thursday,Other Visible Injury,2,0,Following Too Closely,Rear-End,34.12990735553061,-118.1547683000573
+5/23/2015,10:48:00 PM,Saturday,Complaint of Pain,4,0,Auto R/W Violation,Broadside,34.15126289464378,-118.13240849716554
+5/27/2015,2:36:00 PM,Wednesday,Complaint of Pain,3,0,Unsafe Speed,Rear-End,34.140954883932544,-118.12799679099807
+5/28/2015,10:18:00 PM,Thursday,Complaint of Pain,2,0,Unsafe Lane Change,Sideswipe,34.15424784373123,-118.150543886469
+5/30/2015,2:49:00 PM,Saturday,Other Visible Injury,3,0,Unsafe Speed,Overturned,34.15298879280352,-118.11253677967879
+6/8/2015,7:23:00 AM,Monday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.151780068192274,-118.12138970753263
+6/8/2015,6:27:00 PM,Monday,Other Visible Injury,3,0,Auto R/W Violation,Broadside,34.14800799411804,-118.09611364946458
+6/12/2015,1:23:00 PM,Friday,Complaint of Pain,2,0,Auto R/W Violation,Head-On,34.13579888223097,-118.14585681415971
+6/12/2015,2:15:00 PM,Friday,Complaint of Pain,3,0,Unsafe Speed,Rear-End,34.1618123294395,-118.11311379191375
+6/13/2015,2:30:00 PM,Saturday,Other Visible Injury,3,0,Auto R/W Violation,Head-On,34.149564992041036,-118.11319306358114
+6/13/2015,11:44:00 PM,Saturday,Complaint of Pain,2,0,Other,Rear-End,34.17334648320001,-118.15802156805843
+6/16/2015,11:20:00 AM,Tuesday,Other Visible Injury,3,0,Pedestrian Violation,Broadside,34.144549920740786,-118.13233837279286
+6/22/2015,12:33:00 PM,Monday,Complaint of Pain,2,0,Improper Turning,Sideswipe,34.14774791883739,-118.13529485778135
+6/23/2015,7:39:00 PM,Tuesday,Complaint of Pain,2,0,Improper Turning,Broadside,34.144546132652444,-118.14290755228701
+6/30/2015,1:52:00 PM,Tuesday,Complaint of Pain,3,0,Unsafe Speed,Rear-End,34.124044601033994,-118.15165156698053
+7/2/2015,5:00:00 PM,Thursday,Other Visible Injury,2,0,Improper Turning,Broadside,34.148003789507506,-118.13031181021637
+7/6/2015,11:37:00 AM,Monday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.161839806866354,-118.11311347368851
+7/6/2015,12:19:00 PM,Monday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.169742800405935,-118.15917021101538
+7/8/2015,9:35:00 AM,Wednesday,Complaint of Pain,3,0,Unsafe Speed,Rear-End,34.13560019404816,-118.13225711854699
+7/9/2015,3:21:00 PM,Thursday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.15420383878061,-118.14147633900762
+7/11/2015,3:40:00 PM,Saturday,Fatal,3,1,Improper Turning,Head-On,34.164494550050726,-118.15063581348957
+7/14/2015,1:17:00 PM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.18084380807684,-118.15966352227206
+7/19/2015,3:12:00 PM,Sunday,Other Visible Injury,4,0,Wrong Side of Road,Head-On,34.16782476936415,-118.12152518980847
+7/20/2015,2:33:00 PM,Monday,Complaint of Pain,3,0,Auto R/W Violation,Broadside,34.14736697643821,-118.1613479353457
+7/24/2015,11:57:00 AM,Friday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.14952133769448,-118.12136990091774
+7/27/2015,2:56:00 PM,Monday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.1422344266209,-118.08155248198064
+7/30/2015,8:13:00 PM,Thursday,Severe Injury,2,0,Auto R/W Violation,Broadside,34.158265301670866,-118.1026009105678
+8/5/2015,9:11:00 AM,Wednesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.13907307243964,-118.09465260340471
+8/5/2015,11:15:00 AM,Wednesday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.13579159110323,-118.14733725789313
+8/5/2015,1:07:00 PM,Wednesday,Other Visible Injury,2,0,Improper Turning,Broadside,34.16887748536049,-118.14646663460874
+8/5/2015,5:02:00 PM,Wednesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.14036673338388,-118.14740537784645
+8/6/2015,4:50:00 PM,Thursday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.14606230450006,-118.10620156027106
+8/7/2015,1:32:00 PM,Friday,Complaint of Pain,3,0,Unsafe Starting or Backing,Rear-End,34.14593672811917,-118.12804077589567
+8/7/2015,2:12:00 PM,Friday,Complaint of Pain,3,0,Auto R/W Violation,Broadside,34.14462035454235,-118.12288305512675
+8/10/2015,3:29:00 PM,Monday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.146194814513024,-118.08860582968917
+8/10/2015,6:51:00 PM,Monday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.15729427908379,-118.15203428990594
+8/13/2015,11:33:00 AM,Thursday,Complaint of Pain,2,0,Improper Turning,Sideswipe,34.13815653518198,-118.14587414724885
+8/14/2015,10:31:00 AM,Friday,Complaint of Pain,3,0,Traffic Signals and Signs,Broadside,34.14038217025513,-118.14136701845199
+8/14/2015,5:56:00 PM,Friday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.17570021578496,-118.14167474442834
+8/21/2015,8:07:00 AM,Friday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.178090473889156,-118.13724840536135
+8/22/2015,3:15:00 AM,Saturday,Other Visible Injury,7,0,Driving Under Influence,Broadside,34.13578431438783,-118.1487912647049
+8/27/2015,7:25:00 AM,Thursday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.1543410575841,-118.12141656501144
+8/27/2015,11:57:00 AM,Thursday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.1577894823797,-118.13699028981166
+9/1/2015,9:11:00 AM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.15158757028815,-118.07394970543878
+9/1/2015,1:13:00 PM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.149848539045884,-118.0967767620922
+9/2/2015,1:35:00 PM,Wednesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.15775880951735,-118.13245845592539
+9/8/2015,6:35:00 PM,Tuesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.13401013259992,-118.15884706601643
+9/8/2015,6:35:00 PM,Tuesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.13401013259992,-118.15884706601643
+9/9/2015,3:07:00 PM,Wednesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.13983283083031,-118.1413541260931
+9/12/2015,1:25:00 PM,Saturday,Complaint of Pain,3,0,Unsafe Speed,Rear-End,34.14299961274059,-118.10162719354459
+9/14/2015,6:17:00 PM,Monday,Complaint of Pain,3,0,Unsafe Speed,Not Stated,34.15775880951735,-118.13245845592539
+9/15/2015,6:20:00 PM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.15782533066963,-118.12144476599317
+9/16/2015,8:16:00 AM,Wednesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.13577136008706,-118.15037744467624
+9/18/2015,3:38:00 PM,Friday,Other Visible Injury,2,0,Auto R/W Violation,Head-On,34.16898686463495,-118.13223161992124
+9/24/2015,1:52:00 PM,Thursday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.14075449264648,-118.1559054046205
+9/25/2015,9:08:00 AM,Friday,Complaint of Pain,2,0,Unsafe Lane Change,Sideswipe,34.15837654782813,-118.09847060689918
+9/25/2015,5:18:00 PM,Friday,Other Visible Injury,3,0,Unsafe Speed,Rear-End,34.16886735487128,-118.1476468341743
+9/27/2015,8:49:00 PM,Sunday,Complaint of Pain,2,0,Auto R/W Violation,Head-On,34.14211480504553,-118.1016193427199
+10/3/2015,5:06:00 PM,Saturday,Other Visible Injury,2,0,Auto R/W Violation,Head-On,34.145968358473894,-118.12135152107697
+10/3/2015,7:44:00 PM,Saturday,Complaint of Pain,3,0,Auto R/W Violation,Broadside,34.156820283602315,-118.06795830574953
+10/4/2015,12:01:00 AM,Sunday,Property Damage Only,2,0,Auto R/W Violation,Head-On,34.1421133260134,-118.14136994664568
+10/4/2015,6:51:00 PM,Sunday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.14059656930049,-118.15042210769762
+10/4/2015,8:38:00 PM,Sunday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.14450220134594,-118.14745506726238
+10/7/2015,2:40:00 PM,Wednesday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.13574836972692,-118.09437125311115
+10/8/2015,5:20:00 PM,Thursday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.14958296587376,-118.12292670881206
+10/9/2015,4:42:00 PM,Friday,Complaint of Pain,2,0,Driving Under Influence,Head-On,34.157774977495706,-118.12686243876853
+10/15/2015,11:24:00 AM,Thursday,Other Visible Injury,2,0,Unsafe Speed,Sideswipe,34.15921389140709,-118.11067410977387
+10/16/2015,12:36:00 PM,Friday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.15768290418174,-118.07303287817544
+10/16/2015,2:30:00 PM,Friday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.16148487241485,-118.14902875517244
+10/26/2015,3:10:00 PM,Monday,Complaint of Pain,2,0,Unsafe Speed,Not Stated,34.14770922052768,-118.13562107075786
+10/28/2015,8:07:00 AM,Wednesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.16888839257852,-118.1438715343271
+10/29/2015,9:19:00 PM,Thursday,Other Visible Injury,2,0,Improper Turning,Broadside,34.15783383533503,-118.14605063324662
+10/30/2015,5:00:00 PM,Friday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.144549920740786,-118.13233837279286
+11/2/2015,6:33:00 PM,Monday,Other Visible Injury,2,0,Pedestrian Violation,Vehicle - Pedestrian,34.14965321124686,-118.10655752582393
+11/6/2015,5:10:00 PM,Friday,Other Visible Injury,2,0,Pedestrian Violation,Vehicle - Pedestrian,34.17477771899688,-118.1688826533599
+11/11/2015,12:00:00 PM,Wednesday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.15127435677272,-118.13692011606639
+11/12/2015,1:16:00 PM,Thursday,Severe Injury,2,0,Pedestrian Violation,Broadside,34.131580008336854,-118.15539262886494
+11/20/2015,12:41:00 PM,Friday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.15096967552387,-118.15051055967179
+11/24/2015,7:17:00 PM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.149816829681996,-118.09861111275316
+11/29/2015,7:10:00 PM,Sunday,Other Visible Injury,3,0,Wrong Side of Road,Head-On,34.13429000029451,-118.12125856173213
+11/30/2015,5:11:00 PM,Monday,Other Visible Injury,3,0,Unsafe Speed,Head-On,34.14381720024236,-118.16870934285144
+12/2/2015,2:16:00 PM,Wednesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.14197269906816,-118.11311337937522
+12/3/2015,8:05:00 AM,Thursday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.16981945722241,-118.15957302984933
+12/5/2015,4:11:00 PM,Saturday,Property Damage Only,2,0,Unsafe Speed,Sideswipe,34.14575556152784,-118.15595108895644
+12/7/2015,1:00:00 PM,Monday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.15775880951735,-118.13245845592539
+12/7/2015,5:18:00 PM,Monday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.1543052216665,-118.12947158142478
+12/9/2015,8:11:00 AM,Wednesday,Other Visible Injury,2,0,Unsafe Speed,Rear-End,34.150149475073135,-118.06780474396017
+12/9/2015,6:00:00 PM,Wednesday,Complaint of Pain,2,0,Following Too Closely,Rear-End,34.14197209684236,-118.10870803593461
+12/10/2015,7:51:00 AM,Thursday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.17062466981891,-118.13216478676125
+12/10/2015,11:56:00 AM,Thursday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.149564992041036,-118.11319306358114
+12/12/2015,6:32:00 AM,Saturday,Other Visible Injury,2,0,Improper Turning,Head-On,34.14736697643821,-118.1613479353457
+12/12/2015,9:19:00 PM,Saturday,Other Visible Injury,3,0,Unsafe Speed,Overturned,34.170534308041034,-118.15069004426056
+12/15/2015,2:45:00 AM,Tuesday,Other Visible Injury,2,0,Unsafe Speed,Overturned,34.12590282088155,-118.13565276724458
+12/21/2015,7:50:00 PM,Monday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.14678116012794,-118.14890338417436
+12/22/2015,7:26:00 AM,Tuesday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.14182736911451,-118.12129924087323
+12/23/2015,5:53:00 PM,Wednesday,Property Damage Only,2,0,Pedestrian Violation,Broadside,34.144517765447496,-118.14595134913864
+12/25/2015,11:43:00 AM,Friday,Other Visible Injury,2,0,,Broadside,34.15251400907315,-118.14600497788912
+12/25/2015,7:42:00 PM,Friday,Complaint of Pain,3,0,Pedestrian Violation,Broadside,34.152346006192545,-118.13693839814376
+12/27/2015,8:12:00 AM,Sunday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.14952972114261,-118.1414651209418
+12/28/2015,3:19:00 PM,Monday,Other Visible Injury,3,0,Auto R/W Violation,Broadside,34.169128830739304,-118.11426423545308
+1/1/2016,6:57:00 PM,Friday,Complaint of Pain,4,0,Improper Turning,Broadside,34.158294124769085,-118.09847237043437
+1/2/2016,2:40:00 PM,Saturday,Complaint of Pain,3,0,Unsafe Speed,Rear-End,34.15775032451745,-118.14086523565072
+1/7/2016,8:29:00 PM,Thursday,Complaint of Pain,2,0,Following Too Closely,Rear-End,34.15782533066963,-118.12144476599317
+1/10/2016,10:48:00 PM,Sunday,Other Visible Injury,2,0,Pedestrian Violation,Head-On,34.14215071794591,-118.09461312600213
+1/12/2016,6:51:00 PM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Head-On,34.15983617924223,-118.1324782766984
+1/12/2016,7:40:00 PM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.151672382927956,-118.09423719596388
+1/13/2016,7:50:00 PM,Wednesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.15780075031877,-118.14152209443844
+1/15/2016,1:40:00 PM,Friday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.14211722010836,-118.0987044780598
+1/19/2016,6:44:00 PM,Tuesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.125748269007595,-118.158094531208
+1/24/2016,11:35:00 AM,Sunday,Complaint of Pain,7,0,Unsafe Speed,Rear-End,34.15422782720987,-118.13242924818722
+1/26/2016,5:04:00 PM,Tuesday,Property Damage Only,2,0,Auto R/W Violation,Broadside,34.15429266052756,-118.13092920861028
+1/27/2016,8:06:00 AM,Wednesday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.1529778438442,-118.11319768642342
+1/30/2016,7:37:00 AM,Saturday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.148093793284154,-118.12805399602176
+1/30/2016,4:07:00 PM,Saturday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.12757448733966,-118.14124292621541
+2/1/2016,1:28:00 PM,Monday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.14452244257631,-118.1488762252858
+2/3/2016,12:51:00 PM,Wednesday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.15096967552387,-118.15051055967179
+2/4/2016,11:51:00 AM,Thursday,Other Visible Injury,2,0,Unsafe Speed,Broadside,34.17455986228531,-118.14166289223832
+2/4/2016,7:47:00 PM,Thursday,Complaint of Pain,3,0,Unsafe Speed,Rear-End,34.12854453582985,-118.15031487915775
+2/5/2016,2:41:00 PM,Friday,Other Visible Injury,3,0,Traffic Signals and Signs,Broadside,34.14792865734725,-118.13086635709784
+2/7/2016,1:35:00 PM,Sunday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.146795702756506,-118.14599168264681
+2/9/2016,9:31:00 AM,Tuesday,Other Visible Injury,3,0,Traffic Signals and Signs,Broadside,34.15789656159155,-118.11316798959047
+2/10/2016,9:14:00 AM,Wednesday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.14606230450006,-118.10620156027106
+2/14/2016,4:15:00 PM,Sunday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.146795702756506,-118.14599168264681
+2/15/2016,1:08:00 PM,Monday,Other Visible Injury,6,0,Auto R/W Violation,Broadside,34.127387697358294,-118.1503050760033
+2/15/2016,4:22:00 PM,Monday,Complaint of Pain,2,0,Improper Turning,Rear-End,34.13590904112821,-118.1291952422652
+2/20/2016,4:19:00 PM,Saturday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.14292508344044,-118.12801963760032
+2/28/2016,5:53:00 PM,Sunday,Severe Injury,2,0,Pedestrian Violation,Vehicle - Pedestrian,34.15983617924223,-118.1324782766984
+2/28/2016,8:32:00 PM,Sunday,Other Visible Injury,2,0,Not Stated,Sideswipe,34.17803038831645,-118.1416952274196
+2/28/2016,8:32:00 PM,Sunday,Other Visible Injury,2,0,Wrong Side of Road,Sideswipe,34.17803038831645,-118.1416952274196
+3/2/2016,2:30:00 PM,Wednesday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.16051328175805,-118.10311600056585
+3/12/2016,11:17:00 AM,Saturday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.1462380394606,-118.08160265883758
+3/17/2016,1:50:00 PM,Thursday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.1529778438442,-118.11319768642342
+3/20/2016,5:34:00 PM,Sunday,Complaint of Pain,2,0,Following Too Closely,Rear-End,34.12764718077446,-118.13534823502623
+3/26/2016,10:54:00 AM,Saturday,Property Damage Only,2,0,Auto R/W Violation,Broadside,34.168712312210424,-118.13224527771365
+3/29/2016,12:19:00 PM,Tuesday,Complaint of Pain,3,0,Improper Turning,Broadside,34.15569885363175,-118.15479293126188
+3/30/2016,6:51:00 AM,Wednesday,Fatal,3,2,Unknown,Broadside,34.15428278262723,-118.13242980880771
+4/1/2016,10:50:00 AM,Friday,Complaint of Pain,3,0,Improper Turning,Broadside,34.169061804572785,-118.12146771293493
+4/2/2016,2:39:00 PM,Saturday,Complaint of Pain,2,0,Improper Turning,Not Stated,34.12575296421699,-118.15446323094902
+4/8/2016,1:04:00 PM,Friday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.157209246564804,-118.132454507494
+4/9/2016,7:26:00 AM,Saturday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.15126289464378,-118.13240849716554
+4/12/2016,5:54:00 AM,Tuesday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.14450220134594,-118.14745506726238
+4/13/2016,6:02:00 PM,Wednesday,Other Visible Injury,3,0,Auto R/W Violation,Not Stated,34.14951739950296,-118.15001494767976
+4/14/2016,2:35:00 AM,Thursday,Other Visible Injury,2,0,Pedestrian Violation,Vehicle - Pedestrian,34.14577350558216,-118.15046484679516
+4/14/2016,3:36:00 PM,Thursday,Complaint of Pain,2,0,Auto R/W Violation,Not Stated,34.13975496721645,-118.14882736008069
+4/15/2016,5:27:00 PM,Friday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.149527750844804,-118.12022631601455
+4/21/2016,12:50:00 PM,Thursday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.146017519696166,-118.11316181884405
+4/21/2016,6:11:00 PM,Thursday,Complaint of Pain,2,0,Improper Turning,Broadside,34.174642209525324,-118.13199005392532
+4/21/2016,9:56:00 PM,Thursday,Other Visible Injury,2,0,Improper Turning,Broadside,34.14572560425506,-118.15828086450463
+4/27/2016,11:19:00 AM,Wednesday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.14591173728807,-118.13084997884955
+4/27/2016,6:25:00 PM,Wednesday,Other Visible Injury,2,0,Other Hazardous Movement,Sideswipe,34.16910164241381,-118.11709402408307
+5/5/2016,6:46:00 PM,Thursday,Other Visible Injury,2,0,Ped R/W Violation,Vehicle - Pedestrian,34.16312296155143,-118.16564928892757
+5/8/2016,8:50:00 PM,Sunday,Complaint of Pain,2,0,Not Stated,Hit Object,34.14479203549476,-118.14596621416894
+5/10/2016,10:20:00 AM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.1690592146514,-118.12186440892656
+5/19/2016,5:47:00 PM,Thursday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.14213853164195,-118.09613994793497
+5/19/2016,6:57:00 PM,Thursday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.145901856755344,-118.13235373355555
+5/26/2016,4:56:00 PM,Thursday,Other Visible Injury,2,0,Following Too Closely,Rear-End,34.135873696339026,-118.1158710796014
+5/27/2016,11:27:00 AM,Friday,Complaint of Pain,3,0,Pedestrian Violation,Broadside,34.148020210535314,-118.09456027975601
+5/28/2016,2:19:00 PM,Saturday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.155667917497176,-118.0940698224167
+6/12/2016,8:43:00 PM,Sunday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.17386599234198,-118.16245045108937
+6/17/2016,4:12:00 PM,Friday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.15928661821009,-118.13247397177376
+6/24/2016,11:21:00 AM,Friday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.128294451845655,-118.15469261927574
+6/27/2016,12:39:00 PM,Monday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.14584683449194,-118.13973698830681
+7/1/2016,3:09:00 PM,Friday,Complaint of Pain,3,0,Unsafe Speed,Rear-End,34.13588925867245,-118.12126088187244
+7/1/2016,5:57:00 PM,Friday,Complaint of Pain,3,0,Pedestrian Violation,Broadside,34.14983198237521,-118.10023395614617
+7/6/2016,11:41:00 PM,Wednesday,Complaint of Pain,3,0,Following Too Closely,Rear-End,34.127437433669336,-118.15461444483633
+7/8/2016,9:14:00 AM,Friday,Other Visible Injury,3,0,Auto R/W Violation,Broadside,34.168952592197705,-118.13588128074252
+7/10/2016,4:44:00 PM,Sunday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.15775880951735,-118.13245845592539
+7/16/2016,11:05:00 AM,Saturday,Complaint of Pain,3,0,Unsafe Speed,Sideswipe,34.1577274590202,-118.13096764506543
+7/25/2016,2:37:00 AM,Monday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.15778706672519,-118.15057572657834
+7/25/2016,5:52:00 PM,Monday,Complaint of Pain,2,0,Auto R/W Violation,Sideswipe,34.175810191607525,-118.15073903631883
+7/27/2016,11:50:00 AM,Wednesday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.164516265885794,-118.1130810894675
+7/31/2016,4:36:00 PM,Sunday,Other Visible Injury,2,0,Auto R/W Violation,Head-On,34.16907075027377,-118.12031726864647
+8/2/2016,1:45:00 PM,Tuesday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.15126090814626,-118.14144160992643
+8/5/2016,9:42:00 PM,Friday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.13834059393707,-118.1503985906906
+8/8/2016,4:29:00 PM,Monday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.151672382927956,-118.09423719596388
+8/10/2016,10:56:00 AM,Wednesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.16501913198427,-118.11307515855385
+8/11/2016,12:13:00 AM,Thursday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.14570815464927,-118.16067712618933
+8/17/2016,7:40:00 PM,Wednesday,Complaint of Pain,2,0,Auto R/W Violation,Not Stated,34.14050410451134,-118.14740835618974
+8/18/2016,2:30:00 PM,Thursday,Other Visible Injury,2,0,Unsafe Speed,Rear-End,34.138347082127204,-118.14736159091902
+8/21/2016,10:49:00 AM,Sunday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.14679094807983,-118.14764418696646
+8/21/2016,2:34:00 PM,Sunday,Complaint of Pain,3,0,Improper Turning,Sideswipe,34.14467899011414,-118.15761146598764
+8/26/2016,4:14:00 PM,Friday,Other Visible Injury,3,0,Traffic Signals and Signs,Broadside,34.18091212318701,-118.1492022805332
+8/27/2016,2:53:00 PM,Saturday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.15775880951735,-118.13245845592539
+9/1/2016,6:53:00 AM,Thursday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.1529778438442,-118.11319768642342
+9/4/2016,2:13:00 PM,Sunday,Complaint of Pain,2,0,Not Stated,Not Stated,34.15775880951735,-118.13245845592539
+9/8/2016,9:16:00 AM,Thursday,Complaint of Pain,2,0,Unsafe Lane Change,Rear-End,34.14190918377984,-118.11819899178796
+9/8/2016,5:47:00 PM,Thursday,Property Damage Only,2,0,Unsafe Speed,Rear-End,34.14194945949793,-118.11444850020719
+9/9/2016,2:52:00 PM,Friday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.12756448144376,-118.1427430455494
+9/14/2016,11:20:00 PM,Wednesday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.149564992041036,-118.11319306358114
+9/15/2016,7:00:00 AM,Thursday,Other Visible Injury,2,0,Unsafe Speed,Rear-End,34.16893589651585,-118.13858214235391
+9/17/2016,12:32:00 AM,Saturday,Other Visible Injury,4,0,Pedestrian Violation,Broadside,34.145752384302575,-118.15414325645912
+9/24/2016,1:06:00 PM,Saturday,Complaint of Pain,4,0,,Rear-End,34.16665122748031,-118.13234565032238
+9/28/2016,11:13:00 AM,Wednesday,Other Visible Injury,3,0,Pedestrian Violation,Broadside,34.14570815464927,-118.16067712618933
+10/2/2016,3:15:00 PM,Sunday,Other Visible Injury,3,0,Auto R/W Violation,Head-On,34.17896153653747,-118.15964669962652
+10/3/2016,7:50:00 AM,Monday,Complaint of Pain,3,0,Unsafe Speed,Rear-End,34.1538659530824,-118.14601558096531
+10/3/2016,1:09:00 PM,Monday,Other Visible Injury,2,0,Unsafe Speed,Rear-End,34.14620576084454,-118.08690406400805
+10/5/2016,3:11:00 PM,Wednesday,Complaint of Pain,2,0,Following Too Closely,Not Stated,34.15599250908628,-118.12142891358123
+10/5/2016,7:20:00 PM,Wednesday,Complaint of Pain,2,0,Improper Turning,Sideswipe,34.14459793558824,-118.12597644369411
+10/7/2016,9:25:00 AM,Friday,Severe Injury,2,0,Unsafe Starting or Backing,Vehicle - Pedestrian,34.13793768501734,-118.14957288316232
+10/10/2016,10:04:00 AM,Monday,Complaint of Pain,2,0,Auto R/W Violation,Hit Object,34.145955804550916,-118.12289823870061
+10/11/2016,12:46:00 PM,Tuesday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.15534346227936,-118.1489633458079
+10/11/2016,2:00:00 PM,Tuesday,Complaint of Pain,2,0,Improper Turning,Broadside,34.176980633722785,-118.15518282321051
+10/18/2016,1:59:00 PM,Tuesday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.14461042680463,-118.12452889965236
+10/27/2016,3:13:00 PM,Thursday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.16900069428302,-118.12961006065655
+10/28/2016,8:19:00 PM,Friday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.14957827587704,-118.1107175362004
+11/3/2016,3:52:00 PM,Thursday,Severe Injury,2,0,Auto R/W Violation,Head-On,34.1941511800282,-118.17781077456017
+11/9/2016,6:39:00 PM,Wednesday,Other Visible Injury,3,0,Auto R/W Violation,Broadside,34.15824628750173,-118.10628976604842
+11/10/2016,11:00:00 AM,Thursday,Other Visible Injury,2,0,Other Hazardous Movement,Hit Object,34.146188635425496,-118.08929664850552
+11/15/2016,6:48:00 PM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Not Stated,34.14450949127041,-118.15045926615971
+11/16/2016,2:53:00 PM,Wednesday,Complaint of Pain,3,0,Unsafe Speed,Rear-End,34.15193047870585,-118.0968377367803
+11/23/2016,10:36:00 PM,Wednesday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.15286546261432,-118.12140450525985
+12/6/2016,8:22:00 AM,Tuesday,Complaint of Pain,2,0,Not Stated,Rear-End,34.12754437793598,-118.14577302145383
+12/11/2016,11:28:00 AM,Sunday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.14197269906816,-118.11311337937522
+12/15/2016,4:07:00 PM,Thursday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.16900069428302,-118.12961006065655
+12/15/2016,7:24:00 PM,Thursday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.124360047569525,-118.13595417831068
+12/17/2016,12:13:00 PM,Saturday,Other Visible Injury,3,0,Unsafe Speed,Rear-End,34.16599924817674,-118.09835913745289
+12/29/2016,3:23:00 PM,Thursday,Complaint of Pain,5,0,Auto R/W Violation,Broadside,34.16903235286933,-118.12564963652925
+12/29/2016,3:45:00 PM,Thursday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.142553303097536,-118.13384883578085
+1/4/2017,9:22:00 PM,Wednesday,Complaint of Pain,2,0,Other Hazardous Movement,Broadside,34.15012423307399,-118.07882695764575
+1/6/2017,12:20:00 PM,Friday,Complaint of Pain,2,0,Improper Turning,Broadside,34.15001416740616,-118.1088143466255
+1/12/2017,10:35:00 AM,Thursday,Other Visible Injury,2,0,Unsafe Speed,Rear-End,34.14220467519323,-118.08548852136232
+1/16/2017,6:32:00 PM,Monday,Complaint of Pain,4,0,Auto R/W Violation,Broadside,34.15440582087802,-118.09855372688497
+1/23/2017,6:49:00 PM,Monday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.15463751094418,-118.11321478429953
+1/24/2017,7:57:00 PM,Tuesday,Other Visible Injury,3,0,Driving Under Influence,Sideswipe,34.14054161637559,-118.15042126619458
+1/28/2017,1:31:00 PM,Saturday,Complaint of Pain,2,0,Improper Turning,Broadside,34.119050257264504,-118.13916356923116
+1/31/2017,8:44:00 AM,Tuesday,Other Visible Injury,2,0,Auto R/W Violation,Sideswipe,34.1422344266209,-118.08155248198064
+1/31/2017,5:48:00 PM,Tuesday,Complaint of Pain,2,0,Unsafe Speed,Broadside,34.18084380807684,-118.15966352227206
+2/3/2017,8:24:00 AM,Friday,Complaint of Pain,2,0,Improper Turning,Sideswipe,34.16898222045532,-118.13229750141343
+2/13/2017,10:33:00 AM,Monday,Other Visible Injury,2,0,Pedestrian Violation,Broadside,34.15309785709919,-118.09852574214615
+2/18/2017,10:29:00 PM,Saturday,Complaint of Pain,2,0,Driving Under Influence,Rear-End,34.15792176477635,-118.14605141373616
+2/20/2017,7:08:00 PM,Monday,Complaint of Pain,2,0,Improper Turning,Head-On,34.15414073420859,-118.14601773607076
+2/21/2017,12:48:00 PM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.14194945949793,-118.11444850020719
+2/21/2017,11:49:00 PM,Tuesday,Severe Injury,4,0,Unsafe Speed,Hit Object,34.17578317584765,-118.17675999133631
+2/25/2017,6:40:00 AM,Saturday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.169061290137535,-118.1215338280921
+2/27/2017,9:33:00 AM,Monday,Complaint of Pain,5,0,Unsafe Starting or Backing,Broadside,34.16805020585338,-118.14160872831033
+2/28/2017,11:01:00 AM,Tuesday,Complaint of Pain,3,0,Auto R/W Violation,Broadside,34.1458693400978,-118.13687821096421
+3/9/2017,5:06:00 PM,Thursday,Complaint of Pain,2,0,Driving Under Influence,Rear-End,34.14610186125017,-118.09863978061149
+3/10/2017,6:37:00 AM,Friday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.13576391762293,-118.15410500822792
+3/10/2017,2:37:00 PM,Friday,Complaint of Pain,3,0,Pedestrian Violation,Broadside,34.152346006192545,-118.13693839814376
+3/12/2017,12:00:00 PM,Sunday,Complaint of Pain,3,0,Pedestrian Violation,Broadside,34.15248098151407,-118.15052980792815
+3/18/2017,9:55:00 AM,Saturday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.145842099586915,-118.14144565889364
+3/19/2017,2:52:00 PM,Sunday,Other Visible Injury,2,0,Improper Turning,Sideswipe,34.146078543969075,-118.1033163199694
+3/19/2017,9:53:00 PM,Sunday,Other Visible Injury,2,0,Auto R/W Violation,Other,34.14953258575529,-118.14598985359615
+3/21/2017,1:10:00 PM,Tuesday,Complaint of Pain,2,0,Following Too Closely,Rear-End,34.1359143539424,-118.12813777653801
+3/22/2017,12:33:00 PM,Wednesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.17140584907702,-118.17673968903894
+3/22/2017,10:58:00 PM,Wednesday,Complaint of Pain,3,0,Improper Turning,Sideswipe,34.14776849373171,-118.14594884034477
+3/25/2017,9:20:00 AM,Saturday,Other Visible Injury,3,0,Pedestrian Violation,Broadside,34.14952133769448,-118.12136990091774
+3/27/2017,10:36:00 AM,Monday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.14954872705473,-118.11724512485087
+3/28/2017,7:48:00 AM,Tuesday,Other Visible Injury,2,0,Improper Turning,Sideswipe,34.16906643286339,-118.12087267648354
+3/28/2017,6:29:00 PM,Tuesday,Other Visible Injury,2,0,Unsafe Speed,Rear-End,34.12756448144376,-118.1427430455494
+3/30/2017,12:16:00 AM,Thursday,Complaint of Pain,2,0,Pedestrian Violation,Broadside,34.14062404576299,-118.15042252844957
+3/30/2017,1:59:00 PM,Thursday,Complaint of Pain,4,0,Unsafe Speed,Not Stated,34.149586710182746,-118.13239262084579
+3/31/2017,8:15:00 PM,Friday,Complaint of Pain,3,0,Improper Turning,Not Stated,34.16898686463495,-118.13223161992124
+4/3/2017,12:28:00 PM,Monday,Complaint of Pain,3,0,Auto R/W Violation,Broadside,34.14593672811917,-118.12804077589567
+4/10/2017,9:34:00 AM,Monday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.161526052969066,-118.08801391633665
+4/11/2017,8:45:00 AM,Tuesday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.140686449102425,-118.13230581706058
+4/11/2017,9:17:00 PM,Tuesday,Complaint of Pain,2,0,Unknown,Rear-End,34.15126494962045,-118.13273900778572
+4/11/2017,10:09:00 PM,Tuesday,Other Visible Injury,3,0,Auto R/W Violation,Broadside,34.16888839257852,-118.1438715343271
+4/13/2017,8:00:00 AM,Thursday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.15126603839178,-118.132914178421
+4/16/2017,12:18:00 PM,Sunday,Other Visible Injury,2,0,Pedestrian Violation,Vehicle - Pedestrian,34.12754437793598,-118.14577302145383
+4/19/2017,7:53:00 AM,Wednesday,Other Visible Injury,4,0,Traffic Signals and Signs,Broadside,34.165188960533946,-118.14906511368302
+4/22/2017,7:45:00 AM,Saturday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.169061290137535,-118.1215338280921
+4/24/2017,11:00:00 PM,Monday,Other Visible Injury,4,0,Traffic Signals and Signs,Broadside,34.14577350558216,-118.15046484679516
+5/2/2017,7:32:00 AM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.16888018148432,-118.14613606097525
+5/5/2017,9:29:00 AM,Friday,Complaint of Pain,2,0,Auto R/W Violation,Head-On,34.15775880951735,-118.13245845592539
+5/6/2017,3:02:00 PM,Saturday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.145842099586915,-118.14144565889364
+5/7/2017,11:10:00 AM,Sunday,Other Visible Injury,2,0,Improper Turning,Broadside,34.16531171889369,-118.16255613232849
+5/10/2017,3:14:00 PM,Wednesday,Other Visible Injury,3,0,Auto R/W Violation,Broadside,34.140686449102425,-118.13230581706058
+5/11/2017,11:07:00 PM,Thursday,Severe Injury,2,0,Driving Under Influence,Broadside,34.144549920740786,-118.13233837279286
+5/13/2017,5:37:00 PM,Saturday,Complaint of Pain,3,0,Traffic Signals and Signs,Broadside,34.156665170932605,-118.14897388364909
+5/15/2017,6:37:00 PM,Monday,Complaint of Pain,3,0,Traffic Signals and Signs,Head-On,34.149590540658686,-118.106235790244
+5/21/2017,1:13:00 PM,Sunday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.125615974914,-118.15445056930979
+5/24/2017,12:08:00 PM,Wednesday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.158294124769085,-118.09847237043437
+5/24/2017,7:11:00 PM,Wednesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.15261837224293,-118.15053085377549
+5/26/2017,1:01:00 PM,Friday,Complaint of Pain,3,0,Traffic Signals and Signs,Broadside,34.146795702756506,-118.14599168264681
+5/27/2017,2:17:00 PM,Saturday,Complaint of Pain,3,0,Auto R/W Violation,Sideswipe,34.15427919479506,-118.13280989587294
+5/28/2017,2:50:00 PM,Sunday,Complaint of Pain,5,0,Traffic Signals and Signs,Broadside,34.14449661375988,-118.154137635395
+5/30/2017,12:07:00 PM,Tuesday,Other Visible Injury,2,0,Wrong Side of Road,Head-On,34.13401013259992,-118.15884706601643
+5/31/2017,4:58:00 PM,Wednesday,Complaint of Pain,2,0,Auto R/W Violation,Head-On,34.14215071794591,-118.09461312600213
+6/2/2017,12:07:00 AM,Friday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.15248098151407,-118.15052980792815
+6/2/2017,11:39:00 AM,Friday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.168998961587484,-118.12982492757834
+6/3/2017,2:08:00 PM,Saturday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.15309785709919,-118.09852574214615
+6/4/2017,4:36:00 PM,Sunday,Other Visible Injury,2,0,Driving Under Influence,Hit Object,34.15786240298619,-118.08146905951193
+6/17/2017,2:26:00 PM,Saturday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.135751977511305,-118.15606130094058
+6/17/2017,5:22:00 PM,Saturday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.15931909858768,-118.09845043970495
+6/17/2017,7:43:00 PM,Saturday,Complaint of Pain,3,0,Auto R/W Violation,Broadside,34.14955029907235,-118.11707988011341
+6/19/2017,2:32:00 PM,Monday,Complaint of Pain,2,0,Auto R/W Violation,Sideswipe,34.153543265284135,-118.15788930295746
+6/25/2017,1:13:00 PM,Sunday,Complaint of Pain,2,0,Driving Under Influence,Rear-End,34.15370850443923,-118.14894541396357
+6/28/2017,1:06:00 PM,Wednesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.17602999175027,-118.15074085457044
+6/28/2017,1:06:00 PM,Wednesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.17602999175027,-118.15074085457044
+6/30/2017,6:54:00 PM,Friday,Complaint of Pain,3,0,Traffic Signals and Signs,Broadside,34.14215071794591,-118.09461312600213
+7/3/2017,9:06:00 AM,Monday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.14800322325797,-118.09862549810411
+7/4/2017,2:58:00 AM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.14634120276247,-118.09457971780317
+7/5/2017,10:09:00 AM,Wednesday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.15842407598692,-118.09401342652292
+7/5/2017,5:29:00 PM,Wednesday,Other Visible Injury,2,0,Auto R/W Violation,Sideswipe,34.1813497894713,-118.14172069610787
+7/5/2017,6:44:00 PM,Wednesday,Other Visible Injury,2,0,Unsafe Speed,Rear-End,34.15789591493282,-118.11325062245334
+7/8/2017,10:42:00 PM,Saturday,Complaint of Pain,2,0,Other Hazardous Movement,Broadside,34.14050410451134,-118.14740835618974
+7/10/2017,8:12:00 AM,Monday,Other Visible Injury,7,0,Auto R/W Violation,Head-On,34.16157831642427,-118.13249095565328
+7/10/2017,9:04:00 AM,Monday,Severe Injury,3,0,Auto R/W Violation,Broadside,34.13579159110323,-118.14733725789313
+7/12/2017,11:32:00 AM,Wednesday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.145752384302575,-118.15414325645912
+7/13/2017,10:19:00 AM,Thursday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.1618123294395,-118.11311379191375
+7/15/2017,11:17:00 AM,Saturday,Complaint of Pain,2,0,Auto R/W Violation,Head-On,34.15641006975564,-118.16949669676296
+7/17/2017,1:03:00 PM,Monday,Complaint of Pain,3,0,Auto R/W Violation,Broadside,34.15008923783215,-118.08130248157202
+7/20/2017,5:12:00 PM,Thursday,Other Visible Injury,3,0,Auto R/W Violation,Broadside,34.13586631763177,-118.13512030926373
+7/23/2017,10:34:00 AM,Sunday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.14449661375988,-118.154137635395
+7/24/2017,11:08:00 AM,Monday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.15842407598692,-118.09401342652292
+7/28/2017,12:39:00 PM,Friday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.151672382927956,-118.09423719596388
+7/29/2017,9:29:00 PM,Saturday,Complaint of Pain,4,0,Unsafe Speed,Rear-End,34.127578296460534,-118.14726032821737
+7/31/2017,6:39:00 AM,Monday,Other Visible Injury,2,0,Unsafe Speed,Head-On,34.1471075602581,-118.16703334638098
+8/3/2017,12:54:00 PM,Thursday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.15251400907315,-118.14600497788912
+8/3/2017,6:48:00 PM,Thursday,Other Visible Injury,4,0,Traffic Signals and Signs,Broadside,34.15309785709919,-118.09852574214615
+8/9/2017,11:05:00 AM,Wednesday,Complaint of Pain,2,0,Improper Turning,Broadside,34.16917893376428,-118.15619976279692
+8/9/2017,3:30:00 PM,Wednesday,Complaint of Pain,2,0,Auto R/W Violation,Head-On,34.14964411560718,-118.15355881498687
+8/11/2017,7:00:00 PM,Friday,Complaint of Pain,3,0,Auto R/W Violation,Head-On,34.17586511411191,-118.1319350325603
+8/12/2017,3:17:00 PM,Saturday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.142553303097536,-118.13384883578085
+8/13/2017,12:39:00 PM,Sunday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.14983198237521,-118.10023395614617
+8/14/2017,4:50:00 PM,Monday,Other Visible Injury,3,0,Auto R/W Violation,Broadside,34.15230418333788,-118.07591596789959
+8/18/2017,6:34:00 PM,Friday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.129420747467876,-118.13673232006253
+8/23/2017,3:30:00 PM,Wednesday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.147180431017354,-118.08179196620578
+8/27/2017,9:20:00 AM,Sunday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.15842407598692,-118.09401342652292
+8/27/2017,9:20:00 AM,Sunday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.15842407598692,-118.09401342652292
+8/29/2017,5:36:00 PM,Tuesday,Complaint of Pain,3,0,Unsafe Starting or Backing,Broadside,34.1414356001448,-118.12285523891703
+8/31/2017,9:26:00 AM,Thursday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.15569885363175,-118.15479293126188
+9/1/2017,12:31:00 PM,Friday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.14042420135025,-118.13365792480478
+9/5/2017,2:45:00 PM,Tuesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.13576391762293,-118.15410500822792
+9/6/2017,7:50:00 AM,Wednesday,Other Visible Injury,3,0,Auto R/W Violation,Broadside,34.12756448144376,-118.1427430455494
+9/7/2017,6:45:00 PM,Thursday,Complaint of Pain,2,0,Auto R/W Violation,Head-On,34.15783383533503,-118.14605063324662
+9/7/2017,9:33:00 PM,Thursday,Other Visible Injury,2,0,Driving Under Influence,Sideswipe,34.12754876894403,-118.14511219037921
+9/8/2017,9:48:00 AM,Friday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.15251400907315,-118.14600497788912
+9/8/2017,8:57:00 PM,Friday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.142551813761024,-118.13518730050023
+9/12/2017,7:13:00 PM,Tuesday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.142549939669074,-118.13685294541739
+9/16/2017,11:30:00 AM,Saturday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.16914098106252,-118.11303114840392
+9/19/2017,12:05:00 PM,Tuesday,Complaint of Pain,3,0,Auto R/W Violation,Broadside,34.16884164090385,-118.1506716850693
+9/21/2017,10:28:00 AM,Thursday,Complaint of Pain,2,0,Unsafe Speed,Vehicle - Pedestrian,34.14596659607965,-118.12158947085523
+9/21/2017,8:00:00 PM,Thursday,Other Visible Injury,2,0,Auto R/W Violation,Head-On,34.145968358473894,-118.12135152107697
+9/22/2017,4:10:00 PM,Friday,Complaint of Pain,6,0,Traffic Signals and Signs,Broadside,34.1543410575841,-118.12141656501144
+9/23/2017,12:54:00 PM,Saturday,Complaint of Pain,4,0,Traffic Signals and Signs,Broadside,34.151928961786055,-118.10625528913853
+9/24/2017,11:50:00 AM,Sunday,Other Visible Injury,2,0,Unsafe Lane Change,Sideswipe,34.1332470842357,-118.1473149423477
+9/29/2017,7:37:00 PM,Friday,Other Visible Injury,2,0,Auto R/W Violation,Head-On,34.1419401026669,-118.11561839794493
+9/29/2017,11:00:00 PM,Friday,Severe Injury,2,0,Unsafe Speed,Broadside,34.152364789383675,-118.13241024308688
+10/1/2017,4:31:00 PM,Sunday,Complaint of Pain,2,0,Improper Turning,Broadside,34.14583486638744,-118.14292297593998
+10/1/2017,7:18:00 PM,Sunday,Other Visible Injury,2,0,Unsafe Speed,Rear-End,34.16174515562678,-118.1174506869178
+10/3/2017,9:18:00 PM,Tuesday,Severe Injury,4,0,Driving Under Influence,Broadside,34.1275370797856,-118.14725992751677
+10/4/2017,3:33:00 PM,Wednesday,Other Visible Injury,5,0,Auto R/W Violation,Broadside,34.15775880951735,-118.13245845592539
+10/11/2017,9:50:00 AM,Wednesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.1419401026669,-118.11561839794493
+10/18/2017,1:58:00 PM,Wednesday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.14450220134594,-118.14745506726238
+10/18/2017,6:56:00 PM,Wednesday,Complaint of Pain,3,0,Improper Turning,Broadside,34.14037216281472,-118.14286736765189
+10/21/2017,4:47:00 PM,Saturday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.165272280128114,-118.17578372366883
+10/22/2017,5:23:00 PM,Sunday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.16019692122011,-118.15059990256644
+10/23/2017,1:33:00 PM,Monday,Complaint of Pain,4,0,Traffic Signals and Signs,Broadside,34.147180431017354,-118.08179196620578
+10/23/2017,7:22:00 PM,Monday,Other Visible Injury,2,0,Unsafe Speed,Sideswipe,34.156737056705225,-118.1369819536435
+10/24/2017,1:38:00 PM,Tuesday,Complaint of Pain,2,0,Improper Turning,Broadside,34.17257041768244,-118.14164960075247
+10/28/2017,9:02:00 PM,Saturday,Other Visible Injury,4,0,Traffic Signals and Signs,Broadside,34.1421133260134,-118.14136994664568
+10/31/2017,4:43:00 PM,Tuesday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.15182925055325,-118.11317960445099
+11/1/2017,3:40:00 PM,Wednesday,Other Visible Injury,2,0,Improper Turning,Sideswipe,34.13829630240362,-118.15923525136193
+11/16/2017,1:13:00 PM,Thursday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.1473590478421,-118.08116935664081
+11/17/2017,8:56:00 AM,Friday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.169119472529665,-118.11543781969151
+11/19/2017,10:16:00 AM,Sunday,Complaint of Pain,2,0,Improper Turning,Sideswipe,34.15237375941479,-118.1414732407144
+11/19/2017,12:21:00 PM,Sunday,Complaint of Pain,2,0,Following Too Closely,Rear-End,34.16914098106252,-118.11303114840392
+11/19/2017,3:40:00 PM,Sunday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.13405671254185,-118.15035783723587
+11/19/2017,4:32:00 PM,Sunday,Complaint of Pain,2,0,Traffic Signals and Signs,Overturned,34.15179509549239,-118.11730116978869
+11/20/2017,7:12:00 PM,Monday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.16898686463495,-118.13223161992124
+11/22/2017,3:39:00 PM,Wednesday,Other Visible Injury,2,0,Auto R/W Violation,Broadside,34.14039509800753,-118.1397014352112
+11/23/2017,2:23:00 PM,Thursday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.144517765447496,-118.14595134913864
+11/24/2017,3:27:00 PM,Friday,Complaint of Pain,4,0,Auto R/W Violation,Broadside,34.15967129245332,-118.14901560402095
+11/25/2017,2:34:00 PM,Saturday,Severe Injury,3,0,Improper Turning,Sideswipe,34.1469340051766,-118.14293146573006
+11/29/2017,8:37:00 AM,Wednesday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.12691873397205,-118.15819256783736
+11/29/2017,6:19:00 PM,Wednesday,Complaint of Pain,4,0,Improper Turning,Rear-End,34.15702855486426,-118.15249640763167
+12/1/2017,9:57:00 PM,Friday,Severe Injury,4,0,Traffic Signals and Signs,Broadside,34.15781650675846,-118.1489924635795
+12/2/2017,12:09:00 PM,Saturday,Other Visible Injury,2,0,Unsafe Speed,Broadside,34.13574836972692,-118.09437125311115
+12/3/2017,8:02:00 PM,Sunday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.150313278728525,-118.0678272197367
+12/4/2017,11:41:00 AM,Monday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.152364789383675,-118.13241024308688
+12/7/2017,3:17:00 PM,Thursday,Other Visible Injury,2,0,Unsafe Lane Change,Sideswipe,34.165012703007406,-118.1324142990797
+12/9/2017,3:49:00 PM,Saturday,Complaint of Pain,2,0,Auto R/W Violation,Sideswipe,34.15125549811162,-118.14599286347396
+12/10/2017,9:35:00 AM,Sunday,Other Visible Injury,2,0,Traffic Signals and Signs,Sideswipe,34.15286546261432,-118.12140450525985
+12/12/2017,2:02:00 PM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.17251825845621,-118.15070145798207
+12/13/2017,11:11:00 PM,Wednesday,Complaint of Pain,3,0,Traffic Signals and Signs,Broadside,34.14450220134594,-118.14745506726238
+12/15/2017,10:59:00 AM,Friday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.15309785709919,-118.09852574214615
+12/17/2017,9:39:00 AM,Sunday,Complaint of Pain,3,0,Traffic Signals and Signs,Sideswipe,34.14450220134594,-118.14745506726238
+12/18/2017,1:47:00 PM,Monday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.149737986842716,-118.10687178893735
+12/18/2017,6:12:00 PM,Monday,Severe Injury,3,0,Improper Turning,Head-On,34.158948805814035,-118.0814053823692
+12/19/2017,10:56:00 AM,Tuesday,Complaint of Pain,2,0,Auto R/W Violation,Head-On,34.146017519696166,-118.11316181884405
+12/24/2017,4:01:00 PM,Sunday,Complaint of Pain,2,0,Traffic Signals and Signs,Broadside,34.14450220134594,-118.14745506726238
+12/24/2017,4:09:00 PM,Sunday,Other Visible Injury,2,0,Traffic Signals and Signs,Broadside,34.147238008073046,-118.14145463157091
+12/27/2017,12:12:00 PM,Wednesday,Complaint of Pain,2,0,Unsafe Speed,Rear-End,34.16903235286933,-118.12564963652925
+12/30/2017,4:00:00 PM,Saturday,Complaint of Pain,2,0,Auto R/W Violation,Broadside,34.157554642487234,-118.12818906991225
+12/31/2017,9:42:00 AM,Sunday,Complaint of Pain,2,0,Unsafe Speed,Broadside,34.14956518727438,-118.13691401061884
